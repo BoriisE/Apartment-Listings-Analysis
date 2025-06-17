@@ -3,11 +3,6 @@
 **Exploratory Data Analysis**
 **Study of Apartment Sale Listings**
 
-Congratulations! You have completed the course in the simulator. Now is the perfect time to test your knowledge in practice and solve an analytical case. You will work independently.
-When you finish the project, submit it for review. You will receive comments within 24 hours. You need to take them into account: revise the project and send the updated version back to the reviewer.
-Most likely, you will receive comments again. This is normal — revisions may go through several iterations.
-The project is complete when all corrections are accepted.
-
 **Project Description**
 You have at your disposal data from Yandex Real Estate — an archive of apartment sale listings in Saint Petersburg and neighboring localities over several years. You need to learn how to determine the market value of real estate objects. To do this, conduct an exploratory data analysis and identify parameters affecting the price of the properties. This will enable building an automated system to detect anomalies and fraudulent activity.
 
